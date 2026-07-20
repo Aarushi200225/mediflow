@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+mediflow.db
+uploads/
+.env
+!.env.example
